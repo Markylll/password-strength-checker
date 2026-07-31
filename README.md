@@ -31,7 +31,9 @@ Rules passed: 3 / 5
 Strength: WEAK
 
 Issues found:
+
 x Password must be at least 12 characters
+
 x Password must contain at least 1 special character
 
 Suggest improvement: Hello123!abcdefghijkl
