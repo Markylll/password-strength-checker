@@ -1,4 +1,4 @@
-# password-strenth-checker
+# password-strength-checker
 A simple CLI tool that checks password strength and suggests improvements
 # Password Strength Checker
 
