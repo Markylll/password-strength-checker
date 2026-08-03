@@ -68,7 +68,6 @@ def suggestimprovement(password):
     if not checkspecial(suggestion):
         suggestion += "!"
     if not checklength(suggestion):
-        # pad it until it reaches 12 characters
         while len(suggestion) < 12:
             suggestion += "abcdefghijkl"
     return suggestion
